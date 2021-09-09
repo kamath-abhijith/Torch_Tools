@@ -5,7 +5,7 @@ This repository contains PyTorch tutorials for Deep Learning research.
 ### Contents
 
 - Introduction
-	- [Getting Started](01_intro/Getting\ Started.ipynb)
+	- [Getting Started](./01_intro/Getting\ Started.ipynb)
 	- Preparing Datasets
 
 ### Contact
